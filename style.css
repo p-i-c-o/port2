@@ -1,0 +1,36 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #444;
+}
+
+li {
+  list-style: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  display: flex;
+}
+p {
+  flex: 1;
+}
+
+.desc {
+  text-align: center;
+}
+
+.email {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  border: 80px solid transparent;
+}
